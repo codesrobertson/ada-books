@@ -266,7 +266,7 @@ DEPENDENCIES
   better_errors
   binding_of_caller
   bootsnap (>= 1.4.2)
-  bootstrap (~> 4.3.1)
+  bootstrap
   byebug
   capybara (>= 2.15)
   debase (>= 0.2.4.1)
@@ -281,7 +281,7 @@ DEPENDENCIES
   pg (>= 0.18, < 2.0)
   pry-rails
   puma (~> 4.1)
-  rails (~> 6.0.2, >= 6.0.2.1)
+  rails (~> 6.0.2, >= 6.0.2.2)
   ruby-debug-ide (>= 0.7.0)
   sass-rails (>= 6)
   selenium-webdriver
@@ -297,4 +297,4 @@ RUBY VERSION
    ruby 2.6.5p114
 
 BUNDLED WITH
-   1.17.2
+   2.1.4
